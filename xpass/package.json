@@ -4,7 +4,7 @@
   "title": "xpass",
   "description": "Fill usernames, passwords and OTP tokens from pass.",
   "icon": "command-icon.png",
-  "author": "sudoremo",
+  "author": "@sudoremo",
   "categories": [
     "Productivity"
   ],
